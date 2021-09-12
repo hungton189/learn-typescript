@@ -18,3 +18,8 @@
 # compile & run
 
 `ts-node index.ts`
+
+# unit test
+
+`install jest extension in vscode`
+`Ctrl Shift P: Jest:Start all runner`
